@@ -8,7 +8,6 @@
     &__items {
         @extend %list;
         display: flex;
-        gap: $card-set-gap;
     }
 
     &__item {
