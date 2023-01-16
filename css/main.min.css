@@ -67,7 +67,7 @@ button {
 .work__items,
 .scills__items,
 .header-contact,
-.nav {
+.nav__list {
     list-style: none;
     padding-left: 0;
     margin: 0
@@ -162,7 +162,7 @@ a,
     color: #000
 }
 
-.nav {
+.nav__list {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
