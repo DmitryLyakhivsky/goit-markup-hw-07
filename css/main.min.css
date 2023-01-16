@@ -82,7 +82,8 @@ a,
 .clients,
 .team,
 .work,
-.scills {
+.scills
+{
     padding-top: 94px;
     padding-bottom: 94px
 }
@@ -358,7 +359,7 @@ a,
 }
 
 .work {
-    padding-top: 0
+    /* padding-top: 0 */
 }
 
 .work__items {
@@ -502,7 +503,9 @@ a,
 }
 
 .clients__svg {
-    fill: currentColor
+    fill: currentColor;
+    width: 106px;
+    height: 60px;
 }
 
 .company-1 {
