@@ -81,11 +81,14 @@ a,
 .portfolio-filter,
 .clients,
 .team,
-.work,
-.scills
+.work
 {
     padding-top: 94px;
-    padding-bottom: 94px
+    padding-bottom: 94px;
+}
+
+.scills {
+padding-top: 94px;
 }
 
 .clients__title,
